@@ -1,0 +1,76 @@
+@tailwind preflight;
+
+@tailwind components;
+
+@tailwind utilities;
+
+#line-seperator {
+  background-color: #2a2d31;
+  height: 1px;
+  width: 40px;
+}
+
+#photo {
+  -webkit-filter: grayscale(1);
+  filter: grayscale(1);
+}
+
+#markdown {
+  h2 {
+    margin-top: 1.5em;
+  }
+
+  p {
+    font-family: "acumin-pro", -apple-system, BlinkMacSystemFont, "Segoe UI",
+      "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+      "Helvetica Neue", sans-serif;
+    margin-top: 0;
+    margin-bottom: 1.5em;
+    font-weight: 400;
+    line-height: 1.5;
+  }
+
+  li {
+    font-family: "acumin-pro", -apple-system, BlinkMacSystemFont, "Segoe UI",
+      "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+      "Helvetica Neue", sans-serif;
+    margin-top: 0;
+    margin-bottom: 1em;
+    font-weight: 400;
+    line-height: 1.6;
+  }
+
+  a {
+    color: #4483d9;
+    text-decoration: none;
+    font-weight: 400;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  pre {
+    margin-bottom: 1rem;
+    padding: 0.5rem 1rem;
+    line-height: 1.75;
+    background-color: #ffffff;
+    border-left: 4px solid #026d87;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+    overflow-x: auto;
+  }
+
+  hr {
+    margin-bottom: 1.5em;
+    background-color: #aeaeae;
+    height: 1px;
+    border-width: 0;
+    max-width: 100px;
+    text-align: left;
+    margin-left: 0;
+  }
+
+  img {
+    max-width: 100%;
+  }
+}
