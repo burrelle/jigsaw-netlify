@@ -8,7 +8,7 @@
             alt="">
     </div>
 
-    <div id="about" class="max-w-sm pt-8 sm:leading-loose">
+    <div id="about" class="max-w-sm pt-8 leading-loose">
         <p class="block text-grey-darker">Hello! I’m <strong class="font-semibold italic text-black">Evan Burrell</strong>,
             an aspiring developer residing in Portland, Oregon where I am currently a member of <a class="no-underline font-semibold italic text-black hover:text-teal-darker"
                 href="http://www.act-on.com/">Act-On Software</a>. Passionate about <strong class="font-semibold italic text-black">PHP</strong>,
