@@ -7,7 +7,7 @@ section: post
 ---
 Recently, I have been enthralled by Steve Schoger's Refactoring UI series. He and Adam Wathan are coming out with a book in late November or early December and I cannot wait.
 
-I took one of his table examples and tried to make it myself. Here is the result with the source code below, recreate with TailwindCSS.
+I took one of his table examples and tried to make it myself. Here is the result with the source code below, recreated with TailwindCSS.
 
 ![Table](/img/RefactoringTable.png)
 
