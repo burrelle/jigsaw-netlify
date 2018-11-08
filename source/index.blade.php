@@ -4,14 +4,14 @@
 <div class="border-t-8 border-teal-darker"></div>
 <div class="container mx-auto px-8 py-8 lg:px-32 lg:py-20 pb-20">
     <div id="logo">
-        <img id="photo" class="w-24 h-24 rounded-full" src="https://media.licdn.com/dms/image/C5603AQHTC6WXP-M2og/profile-displayphoto-shrink_200_200/0?e=1541635200&v=beta&t=oMGKy2QeH-zEXxBCbhuesfh57hEhhT0cMlrcRYbkQ4Y"
+        <img id="photo" class="w-24 h-24 rounded-full" src="./assets/images/avatar.jpeg"
             alt="">
     </div>
 
     <div id="about" class="max-w-sm pt-8 leading-loose">
         <p class="block text-grey-darker">Hello! I’m <strong class="font-semibold italic text-black">Evan Burrell</strong>,
-            an aspiring developer residing in Portland, Oregon where I am currently a member of <a class="no-underline font-semibold italic text-black hover:text-teal-darker"
-                href="http://www.act-on.com/">Act-On Software</a>. Passionate about <strong class="font-semibold italic text-black">PHP</strong>,
+            an aspiring developer residing in Manchester, United Kingdom, where I am currently a member of <a class="no-underline font-semibold italic text-black hover:text-teal-darker"
+                href="https://ampersandcommerce.com/">Ampersand</a>. Passionate about <strong class="font-semibold italic text-black">PHP</strong>,
             <strong class="font-semibold italic text-black">Laravel</strong> and <strong class="font-semibold italic text-black">JavaScript</strong>.
         </p>
     </div>
