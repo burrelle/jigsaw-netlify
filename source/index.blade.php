@@ -47,20 +47,18 @@
         <p class="mb-8" id="line-seperator"></p>
         <ul class="list-reset">
             <li class="mb-4">
-                <a class="no-underline text-grey-dark flex items-center hover:italic" href="https://github.com/burrelle/Crypto-Price-API">Aries
-                    Cryptocurrency API<svg class="fill-stroke text-black ml-2 w-4 h-4" xmlns="http://www.w3.org/2000/svg"
+                <a class="no-underline text-grey-dark flex items-center hover:italic" href="https://github.com/burrelle/ticketbeast">Test Driven Laravel
+                    <svg class="fill-stroke text-black ml-2 w-4 h-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                        <path d="M20 10a10 10 0 1 1-20 0 10 10 0 0 1 20 0zm-2 0a8 8 0 1 0-16 0 8 8 0 0 0 16 0zm-8 2H5V8h5V5l5 5-5 5v-3z" /></svg></a>
+            </li>
+            <li class="mb-4">
+                <a class="no-underline text-grey-dark flex items-center hover:italic" href="https://github.com/burrelle/react-tailwind-cli/">React Tailwind CLI<svg class="fill-stroke text-black ml-2 w-4 h-4" xmlns="http://www.w3.org/2000/svg"
                         viewBox="0 0 20 20">
                         <path d="M20 10a10 10 0 1 1-20 0 10 10 0 0 1 20 0zm-2 0a8 8 0 1 0-16 0 8 8 0 0 0 16 0zm-8 2H5V8h5V5l5 5-5 5v-3z" /></svg></a>
             </li>
             <li class="mb-4">
-                <a class="no-underline text-grey-dark flex items-center hover:italic" href="https://github.com/burrelle/league-manager">League
-                    Manager<svg class="fill-stroke text-black ml-2 w-4 h-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-                        <path d="M20 10a10 10 0 1 1-20 0 10 10 0 0 1 20 0zm-2 0a8 8 0 1 0-16 0 8 8 0 0 0 16 0zm-8 2H5V8h5V5l5 5-5 5v-3z" /></svg></a>
-            </li>
-            <li class="mb-4">
-                <a class="no-underline text-grey-dark flex items-center hover:italic" href="https://github.com/burrelle/forum">Laracasts
-                    Forum with TDD<svg class="fill-stroke text-black ml-2 w-4 h-4" xmlns="http://www.w3.org/2000/svg"
-                        viewBox="0 0 20 20">
+                <a class="no-underline text-grey-dark flex items-center hover:italic" href="https://github.com/burrelle/advanced-react">Advanced React
+                    <svg class="fill-stroke text-black ml-2 w-4 h-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
                         <path d="M20 10a10 10 0 1 1-20 0 10 10 0 0 1 20 0zm-2 0a8 8 0 1 0-16 0 8 8 0 0 0 16 0zm-8 2H5V8h5V5l5 5-5 5v-3z" /></svg></a>
             </li>
         </ul>
